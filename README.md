@@ -32,7 +32,7 @@ Welcome to the Bike Sales Dashboard Excel Project! This Excel project is designe
    ```
 
 2. **Open the Excel Workbook:**
-   - Launch Excel and open the `Bike_Sales_Dashboard.xlsx` file to start exploring the data.
+   - Launch Excel and open the `Bike Sales Dashboard(Excel Project).xlsx` file to start exploring the data.
 
 3. **Explore and Analyze:**
    - Interact with the pivot tables and charts to uncover valuable insights.
